@@ -11,7 +11,7 @@
 Full-Stack Developer and Functional Analyst with ~4 years of professional experience across Saudi Arabia and Belgium. I design microservice backends, REST APIs and cross-platform apps, and translate business needs into working software (Agile/Scrum). MBA in IT Management (2025).
 
 - 🏢 **2019–2021** — Functional Analyst & Java Developer @ **Leejam Sports (Fitness Time)**, Saudi Arabia
-- 🇧🇪 **2021–present** — Full-stack projects in Belgium for **Nova IT Group (Yaano / LTS Consulting)** and logistics clients (**Mute Garage Belgium**, **Amazon** last-mile delivery)
+- 🇧🇪 **2021–present** —sel Employeed Full-stack projects in Belgium
 - 🗣️ Languages: Arabic (C2) · French (B2) · English (B2) · Dutch (A2)
 
 ---
