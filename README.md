@@ -1,20 +1,39 @@
-# Abdessalem Saadaoui
+<div align="center">
 
-**Functional Analyst & Full-Stack Developer** · Brussels, Belgium
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F766E,50:14B8A6,100:5EEAD4&text=Abdessalem%20Saadaoui&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=34&desc=Functional%20Analyst%20%26%20Full-Stack%20Developer&descAlign=50&descAlignY=54&descSize=18&animation=fadeIn"
+  alt=""
+/>
+
+<a href="https://www.saadaoui.it.com">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=780&height=60&lines=I+write+the+specification%2C+then+I+build+it;Requirements+%E2%86%92+business+rules+%E2%86%92+API+contract+%E2%86%92+tested+code;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Docker;BPMN+%7C+UML+%7C+OpenAPI+%7C+traceability;Based+in+Brussels%2C+Belgium"
+    alt="I write the specification, then I build it"
+  />
+</a>
+
+<br/>
+
+<a href="https://www.saadaoui.it.com"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/abdussalem-saadaoui-10bb7018a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:abdessalemsaa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.saadaoui.it.com/fa"><img src="https://img.shields.io/badge/FA%20Workspace-14B8A6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Functional Analyst Workspace"/></a>
+
+</div>
+
+---
+
+## The short version
 
 I work at the point where a business requirement becomes a system: I write the analysis —
 requirements, business rules, process models, interface contracts — then build it in Java and
 Spring Boot, with the tests that prove it behaves.
 
-Most developers can show you code. Most analysts can show you documents. The repositories below
-show the same project as both — **[EuroPay Hub](https://github.com/abdessalems/europay-hub)** ships a
-business requirements document, a functional specification, a rule catalogue, user stories with
-acceptance criteria, BPMN and UML models and API contracts, alongside the Spring Boot service that
-implements them and the ArchUnit + Testcontainers suite that keeps it honest.
-
----
-
-## Analysis and engineering, on the same project
+Most developers can show you code. Most analysts can show you documents.
+**[EuroPay Hub](https://github.com/abdessalems/europay-hub)** is the same project as both — a business
+requirements document, functional specification, rule catalogue, user stories with acceptance
+criteria, BPMN and UML models and API contracts, next to the Spring Boot service that implements
+them and the ArchUnit + Testcontainers suite that keeps it honest.
 
 | Analysis | Engineering |
 | --- | --- |
@@ -25,85 +44,91 @@ implements them and the ArchUnit + Testcontainers suite that keeps it honest.
 
 ---
 
-## Tech stack
+## What I actually build in
 
-**Backend**
-![Java](https://img.shields.io/badge/Java%2021-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-6DB33F?logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+> Written by hand, because the automated language card counts committed bytes — which rewards
+> template CSS and images, not the work.
 
-**Frontend**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue%203-4FC08D?logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+| | |
+| --- | --- |
+| **Daily** | Java 21 · Spring Boot 3 · PostgreSQL · Flyway · Docker · JUnit 5 · Testcontainers |
+| **Regularly** | TypeScript · Next.js / React · Angular · Vue 3 · .NET / C# · Python / FastAPI |
+| **Analysis tooling** | BPMN · PlantUML (use case, class, ER, state, sequence) · OpenAPI · SQL |
+| **Delivery** | GitHub Actions · Docker Compose · Git · Maven / Gradle |
 
-**Data & delivery**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,ts,angular,vue,react,nextjs,dotnet,python,fastapi,githubactions,git&perline=7&theme=dark" alt="Java, Spring, PostgreSQL, Docker, TypeScript, Angular, Vue, React, Next.js, .NET, Python, FastAPI, GitHub Actions, Git"/>
+
+</div>
 
 ---
 
-## Selected projects
+## Selected work
 
-### [EuroPay Hub](https://github.com/abdessalems/europay-hub) — merchant payment platform
-`Java 21` `Spring Boot 3` `PostgreSQL` `Flyway` `React` `TypeScript`
+<div align="center">
 
-Seven bounded contexts behind one API: merchant onboarding, orders, an explicit payment state
-machine, idempotent payment creation, HMAC-signed webhooks with a transactional outbox, an
-append-only audit log. Clean Architecture + DDD, with the layering **enforced in CI by ArchUnit**.
-Ships the full functional-analysis document set in [`docs/`](https://github.com/abdessalems/europay-hub/tree/main/docs).
+<a href="https://github.com/abdessalems/europay-hub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdessalems&repo=europay-hub&bg_color=00000000&title_color=0F766E&text_color=5b7a76&icon_color=14B8A6&border_color=2f6f68" alt="EuroPay Hub"/>
+</a>
+<a href="https://github.com/abdessalems/Functional-Analyst-Workspace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdessalems&repo=Functional-Analyst-Workspace&bg_color=00000000&title_color=0F766E&text_color=5b7a76&icon_color=14B8A6&border_color=2f6f68" alt="Functional Analyst Workspace"/>
+</a>
+<a href="https://github.com/abdessalems/ai-company-knowledge-assistant-rag">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdessalems&repo=ai-company-knowledge-assistant-rag&bg_color=00000000&title_color=0F766E&text_color=5b7a76&icon_color=14B8A6&border_color=2f6f68" alt="AI Knowledge Assistant"/>
+</a>
+<a href="https://github.com/abdessalems/saas-billing-identity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdessalems&repo=saas-billing-identity&bg_color=00000000&title_color=0F766E&text_color=5b7a76&icon_color=14B8A6&border_color=2f6f68" alt="SaaS Billing & Identity"/>
+</a>
 
-### [Functional Analyst Workspace](https://github.com/abdessalems/Functional-Analyst-Workspace) — analysis, made navigable
-`Next.js 15` `React 19` `TypeScript` `Tailwind` `PlantUML`
+</div>
 
-A workspace that shows an analysis end to end — business need, acceptance criteria, rules, BPMN,
-interface contract, SQL validation, tests. Every cross-reference resolves, and the traceability
-matrix is *derived* from the artefacts' own links, so it cannot drift from them. New projects are
-added by importing a spreadsheet that is validated before it is accepted.
+**EuroPay Hub** — seven bounded contexts behind one API: merchant onboarding, orders, an explicit
+payment state machine, idempotent payment creation, HMAC-signed webhooks with a transactional
+outbox, an append-only audit log. Clean Architecture + DDD, layering enforced in CI by ArchUnit.
+Full functional-analysis document set in [`docs/`](https://github.com/abdessalems/europay-hub/tree/main/docs).
 
-### [AI Knowledge Assistant](https://github.com/abdessalems/ai-company-knowledge-assistant-rag) — on-premise RAG over company documents
-`.NET` `Clean Architecture` `EF Core` `PostgreSQL` `Angular` `Ollama`
+---
 
-Upload PDFs and Word documents, ask questions in natural language, get answers with document, page
-and section citations. Runs entirely locally — no document content leaves the network.
+## Activity
 
-### [FSBE](https://github.com/abdessalems/FastApiProject) — activity planning API *(collaboration)*
-`Python` `FastAPI` `SQLAlchemy` `JWT` `Poetry` `Docker`
+<div align="center">
 
-A **two-person project** with [@antoinecaby](https://github.com/antoinecaby): users, companies,
-planning activities and notifications behind JWT authentication and role checks. I wrote the larger
-share of the commit history — see the
-[contributors graph](https://github.com/abdessalems/FastApiProject/graphs/contributors) and
-[my commits](https://github.com/abdessalems/FastApiProject/commits?author=abdessalems).
+<!-- Commit/PR/issue counts and streak are honest: they measure what I did, not what language a template was written in -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdessalems&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=5b7a76&icon_color=14B8A6" alt=""/>
+<img height="170" src="https://streak-stats.demolab.com?user=abdessalems&hide_border=true&background=00000000&stroke=2f6f68&ring=14B8A6&fire=0F766E&currStreakLabel=0F766E&sideLabels=5b7a76&dates=5b7a76&currStreakNum=14B8A6&sideNums=14B8A6" alt=""/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdessalems&bg_color=00000000&color=5b7a76&line=14B8A6&point=0F766E&area=true&hide_border=true" alt=""/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdessalems/abdessalems/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdessalems/abdessalems/output/github-snake.svg"/>
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/abdessalems/abdessalems/output/github-snake.svg"/>
+</picture>
+
+<br/><br/>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="90%"/>
+
+</div>
 
 ---
 
 ## Background
 
 - **2019–2021** — Functional Analyst & Java Developer, Leejam Sports (Fitness Time), Saudi Arabia
-- **2021–2024** — Relocated to Belgium and retrained: IT studies at EPFC Brussels and EFFICOM Lille
-  — web back-end, test-driven development, DevOps — alongside an MBA in IT Management (2025)
+- **2021–2024** — Relocated to Belgium and retrained: IT studies at EPFC Brussels and EFFICOM Lille — web back-end, test-driven development, DevOps — alongside an MBA in IT Management (2025)
 - **2024–present** — Self-employed full-stack developer and functional analyst, Brussels
 
 Around **four years** of professional experience across Saudi Arabia and Belgium.
-
 Arabic (C2) · French (B2) · English (B2) · Dutch (A2)
 
----
+<div align="center">
 
-## Contact
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:5EEAD4,50:14B8A6,100:0F766E" alt=""/>
 
-[![Website](https://img.shields.io/badge/Website-saadaoui.it.com-0F766E?logo=googlechrome&logoColor=white)](https://www.saadaoui.it.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdussalem-saadaoui-10bb7018a)
-[![Email](https://img.shields.io/badge/Email-abdessalemsaa%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:abdessalemsaa@gmail.com)
-
-Brussels, Belgium · self-employed (VAT BE1022923891) · available for freelance and permanent roles
+</div>
