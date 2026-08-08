@@ -73,22 +73,9 @@ cases, risk analysis.
 the test that closes the loop. The traceability matrix is *derived* from the artefacts' own links,
 so it cannot drift. Live at [saadaoui.it.com/fa](https://www.saadaoui.it.com/fa).
 
-## Where the code goes
+## Contributions
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdessalems/abdessalems/profile-summary-cards-output/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
-  <img src="https://raw.githubusercontent.com/abdessalems/abdessalems/profile-summary-cards-output/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most commit language"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdessalems/abdessalems/profile-summary-cards-output/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
-  <img src="https://raw.githubusercontent.com/abdessalems/abdessalems/profile-summary-cards-output/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repositories per language"/>
-</picture>
-
-<sub>Commits and repositories per language — not bytes, so a downloaded template cannot outweigh a year of Java.</sub>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdessalems/abdessalems/output/github-snake-dark.svg"/>
