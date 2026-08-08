@@ -44,22 +44,13 @@ Most developers can show you code. Most analysts can show you documents.
 
 ## Selected work
 
-<div align="center">
-
-<a href="https://github.com/abdessalems/europay-hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdessalems&repo=europay-hub&bg_color=00000000&title_color=0F766E&text_color=5b7a76&icon_color=14B8A6&border_color=2f6f68" alt="EuroPay Hub"/>
-</a>
-<a href="https://github.com/abdessalems/Functional-Analyst-Workspace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdessalems&repo=Functional-Analyst-Workspace&bg_color=00000000&title_color=0F766E&text_color=5b7a76&icon_color=14B8A6&border_color=2f6f68" alt="Functional Analyst Workspace"/>
-</a>
-<a href="https://github.com/abdessalems/ai-company-knowledge-assistant-rag">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdessalems&repo=ai-company-knowledge-assistant-rag&bg_color=00000000&title_color=0F766E&text_color=5b7a76&icon_color=14B8A6&border_color=2f6f68" alt="AI Knowledge Assistant"/>
-</a>
-<a href="https://github.com/abdessalems/saas-billing-identity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdessalems&repo=saas-billing-identity&bg_color=00000000&title_color=0F766E&text_color=5b7a76&icon_color=14B8A6&border_color=2f6f68" alt="SaaS Billing and Identity"/>
-</a>
-
-</div>
+| Project | Stack | What it is |
+| --- | --- | --- |
+| **[EuroPay Hub](https://github.com/abdessalems/europay-hub)** | `Java 21` `Spring Boot 3` `PostgreSQL` `React` | Merchant payment platform — analysis and implementation in one repository |
+| **[Functional Analyst Workspace](https://github.com/abdessalems/Functional-Analyst-Workspace)** | `Next.js 15` `React 19` `TypeScript` | A functional analysis you can click through, end to end · [live](https://www.saadaoui.it.com/fa) |
+| **[AI Knowledge Assistant](https://github.com/abdessalems/ai-company-knowledge-assistant-rag)** | `.NET` `EF Core` `Angular` `Ollama` | On-premise RAG over company documents, answers cited to page and section |
+| **[SaaS Billing & Identity](https://github.com/abdessalems/saas-billing-identity)** | `Java` `Spring Security` `JWT` `Docker` | Subscription billing with plan-based entitlement enforced through AOP |
+| **[FSBE](https://github.com/abdessalems/FastApiProject)** *(collaboration)* | `Python` `FastAPI` `SQLAlchemy` | Activity planning API — two-person project, I wrote 43 of 50 commits |
 
 **EuroPay Hub** — merchant onboarding, orders, an explicit payment state machine, idempotent payment
 creation, HMAC-signed webhooks with a transactional outbox, an append-only audit log. Clean
