@@ -1,0 +1,30 @@
+# Regenerates the language cards. The action commits them straight to main under
+# ./profile-summary-card-output/, so the README references them by relative path
+# rather than a raw.githubusercontent URL on a separate branch.
+#
+# The "most commit language" card counts COMMITS per language rather than
+# committed bytes, so template CSS and vendored assets cannot distort it.
+
+name: GitHub profile summary cards
+
+on:
+  schedule:
+    - cron: "0 19 * * 0"     # weekly, Sunday 19:00 UTC — the numbers move slowly
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate the cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 2

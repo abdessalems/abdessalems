@@ -73,9 +73,22 @@ cases, risk analysis.
 the test that closes the loop. The traceability matrix is *derived* from the artefacts' own links,
 so it cannot drift. Live at [saadaoui.it.com/fa](https://www.saadaoui.it.com/fa).
 
-## Contributions
+## Where the code goes
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Most commit language"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Repositories per language"/>
+</picture>
+
+<sub>Measured in <b>commits</b>, not committed bytes — so a downloaded template cannot outweigh a year of Java.</sub>
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdessalems/abdessalems/output/github-snake-dark.svg"/>
